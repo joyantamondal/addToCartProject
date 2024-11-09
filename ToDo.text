@@ -1,0 +1,11 @@
+Project Creation Using npm create vite@latest
+Project CSS & Assets & Packages
+- npm i bootstrap
+- npm i react-bootstrap
+- npm i react-hot-toast
+- npm i axios
+- npm i react-router-dom
+Project Skeleton
+Project Page Route Completed
+Call Product List API
+User Login API Call
